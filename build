@@ -1,0 +1,3 @@
+#!/use/bin/env bash
+
+zip -r svg-reload.zip svg-reload
